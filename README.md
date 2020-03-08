@@ -2,6 +2,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Live-green?color=blueviolet)](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/configuration-and-preset)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/getting-started)
 [![License](https://img.shields.io/github/license/dexise/jQuery-Analog-Clock?label=License)](https://github.com/dexise/jQuery-Analog-Clock/blob/master/LICENSE)
+[![Size](https://img.shields.io/github/size/dexise/jQuery-Analog-Clock/jquery.ht-analog-clock.min.js?color=00aa00&label=Size)](https://github.com/dexise/jQuery-Analog-Clock/releases)
 
 # jQuery-Analog-Clock
 A customizable analog clock based on Vanilla JS as a jQuery addon
