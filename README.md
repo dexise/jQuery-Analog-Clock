@@ -1,4 +1,4 @@
-https://img.shields.io/github/watchers/badges/shields.svg?style=social
+(https://img.shields.io/github/watchers/badges/shields.svg?style=social)
 
 
 # jQuery-Analog-Clock
