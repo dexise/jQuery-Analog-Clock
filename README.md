@@ -1,4 +1,4 @@
-(https://img.shields.io/github/watchers/badges/shields.svg?style=social)
+[![PyPI implementation](https://img.shields.io/pypi/implementation/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 
 # jQuery-Analog-Clock
