@@ -1,5 +1,4 @@
-[![PyPI implementation](https://img.shields.io/pypi/implementation/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/dexise/jQuery-Analog-Clock/blob/master/LICENSE)
 
 # jQuery-Analog-Clock
 A customizable analog clock based on Vanilla JS as a jQuery addon
