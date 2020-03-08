@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/github/license/dexise/jQuery-Analog-Clock)](https://github.com/dexise/jQuery-Analog-Clock/blob/master/LICENSE)
 [![Demo](https://img.shields.io/badge/Demo-Live-green)](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/configuration-and-preset)
+[![Demo](https://img.shields.io/badge/Docs-Read-blue)](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/getting-started)
 
 # jQuery-Analog-Clock
 A customizable analog clock based on Vanilla JS as a jQuery addon
