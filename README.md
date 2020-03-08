@@ -1,5 +1,5 @@
 [![Version](https://img.shields.io/github/v/tag/dexise/jQuery-Analog-Clock?label=Version)](https://github.com/dexise/jQuery-Analog-Clock/releases)
-[![Demo](https://img.shields.io/badge/Demo-Live-green)](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/configuration-and-preset)
+[![Demo](https://img.shields.io/badge/Demo-Live-green?color=blueviolet)](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/configuration-and-preset)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/getting-started)
 [![License](https://img.shields.io/github/license/dexise/jQuery-Analog-Clock?label=License)](https://github.com/dexise/jQuery-Analog-Clock/blob/master/LICENSE)
 
