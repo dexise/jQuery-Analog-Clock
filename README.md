@@ -12,6 +12,9 @@ This is a jQuery Plugin and you can apply it to any dom element on the page.
 This plugin doesn't use any bitmap and will resize without losing quality as it uses HTML5 Canvas drawing API.
 A [full documentation](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/getting-started) and [live demo](https://docs.handy.tools/analog-clock-jquery-plugin/v1.0/configuration-and-preset) is also provided.
 
+# Screen Cast:
+![Screen Cast](https://static.xise.io/asset/animated/jquery-analog-clock.gif)
+
 # Features:
 - jQuery Plugin & Full Selector Support
 - Resizable & Responsive
